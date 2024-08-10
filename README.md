@@ -6,7 +6,8 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/ecccdc0c-0fd1-4ee4-bcac-5aa0de40ebff" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthtiwari68&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthtiwari68" /> </p>
+<p align="left"> <img src="![image](https://github.com/user-attachments/assets/63a73fc8-ccdd-47cc-a19d-f186ed16dce3)
+" /> </p>
 
 - 🌱 I’m currently learning **Data Analyst course**
 
