@@ -1,51 +1,22 @@
 <h1 align="center">Hi 👋, I'm Siddharth Tiwari</h1>
-<h3 align="center">Passionate about transforming data into meaningful insights and actionable strategies. With a strong foundation in Excel,SQL,Power BI,Python. I am dedicated to solving complex problems and driving data-driven innovation.</h3>
+# 💫 About Me:
+📊 𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐀𝐛𝐨𝐮𝐭 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 📊<br><br>I am an emerging Data Analyst with a strong foundation in collecting, cleaning, and analyzing data to derive actionable insights. While I’m a fresher in the field, my hands-on experience with tools like SQL, Python, Excel, and Power BI has allowed me to develop a solid understanding of identifying patterns and trends that drive informed decision-making.<br><br>I've worked on projects where I applied my skills to transform complex data sets into clear, understandable reports and visualizations for stakeholders. I have a strong passion for using statistical methods to solve business problems and optimize processes, and I thrive in collaborative, dynamic environments.<br><br>I’m eager to apply my skills to help drive data-driven strategies and contribute to innovative solutions. Constantly learning and growing, I’m excited to bring my expertise into the field of data analytics.<br><br>💬 𝐋𝐞𝐭’𝐬 𝐂𝐨𝐧𝐧𝐞𝐜𝐭!<br><br>I’m eager to connect with others who share my passion for data analytics. Whether it’s discussing industry trends, exchanging insights, or exploring collaboration opportunities, I’m always open to new connections. Let’s turn data into actionable insights together!<br>Want to connect and work together drop an email on siddhartht734@gmail.com <br><br>🔧 𝐄𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 & 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐭𝐢𝐞𝐬:<br><br>Python Programming<br>MySQL<br>Power BI<br>Microsoft Excel<br>ETL (Extract, Transform, Load)<br>Data Modeling<br>Data Mining<br>Data Visualization
 
-<img align="right" alt="Data Analyst GIF" width="400" src="https://raw.githubusercontent.com/SiddharthTiwari68/SiddharthTiwari68/main/Data_Analyst.gif.webp" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthtiwari68&label=Profile%20views&color=0e75b6&style=flat" alt="siddharthtiwari68" /> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/siddharth-tiwari-9abb2921b) 
 
-- 🌱 I’m currently learning **Data Analyst course**
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SiddharthTiwari68&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SiddharthTiwari68&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthTiwari68&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **siddhartht734@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SiddharthTiwari68&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/siddharth-tiwari-9abb2921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/siddharth-tiwari-9abb2921b" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=SiddharthTiwari68&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="Numpy" width="40" height="40"/> 
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
-  </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
-  </a>
-  
-  
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthtiwari68&show_icons=true&locale=en&layout=compact" alt="siddharthtiwari68" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthtiwari68&show_icons=true&locale=en" alt="siddharthtiwari68" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthtiwari68&" alt="siddharthtiwari68" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
