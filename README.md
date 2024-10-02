@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Tiwari</h1>
-<h3 align="center">Passionate about transforming data into meaningful insights and actionable strategies. With a strong foundation in Excel,SQL,Power BI,Python, I am dedicated to solving complex problems and driving data-driven innovation.</h3>
+<h3 align="center">Passionate about transforming data into meaningful insights and actionable strategies. With a strong foundation in Excel,SQL,Power BI,Python. I am dedicated to solving complex problems and driving data-driven innovation.</h3>
 
 <img align="right" alt="Data Analyst GIF" width="400" src="https://raw.githubusercontent.com/SiddharthTiwari68/SiddharthTiwari68/main/Data_Analyst.gif.webp" />
 
