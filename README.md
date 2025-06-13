@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siddharth Tiwari</h1>
 # 💫 About Me:
-📊 𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐀𝐛𝐨𝐮𝐭 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 📊<br><br>I am an emerging Data Analyst with a strong foundation in collecting, cleaning, and analyzing data to derive actionable insights. I'm an **Electrical Engineering graduate** who has made a passionate transition into the field of **Data Analytics**. With a strong analytical mindset developed through my engineering background, I now focus on turning raw data into meaningful insights that drive smart business decisions.
+📊 𝐀𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 | 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐀𝐛𝐨𝐮𝐭 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐢𝐧𝐭𝐨 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 📊<br><br>I am an emerging Data Analyst with a strong foundation in collecting, cleaning, and analyzing data to derive actionable insights.
+I'm an Electrical Engineering graduate who has made a passionate transition into the field of Data Analytics. With a strong analytical mindset developed through my engineering background, I now focus on turning raw data into meaningful insights that drive smart business decisions.
 
-🔍 While I'm a fresher in the data industry, I’ve built a solid foundation through hands-on projects using tools like **SQL, Python, Excel, and Power BI**. I enjoy exploring data, uncovering patterns, and visualizing results to make data-driven strategies accessible and effective.
+🔍 While I'm a fresher in the data industry, I’ve built a solid foundation through hands-on projects using tools like SQL, Python, Excel, and Power BI. I enjoy exploring data, uncovering patterns, and visualizing results to make data-driven strategies accessible and effective.
 
-📊 My recent work includes transforming complex datasets into insightful dashboards and reports that support real-world decision-making. I’m particularly interested in applying **statistical methods** to solve problems and improve processes.
+📊 My recent work includes transforming complex datasets into insightful dashboards and reports that support real-world decision-making. I’m particularly interested in applying statistical methods to solve problems and improve processes.
 
 🚀 I'm continuously learning and expanding my skill set — driven by curiosity and a commitment to personal and professional growth. I thrive in collaborative environments and am always looking to contribute to innovative, data-driven solutions.
-
 ## 🤝 Let’s Connect!
 
 I love meeting people who are just as excited about data as I am. Whether it's talking about analytics trends, collaborating on projects, or simply sharing ideas — I'm always open to new opportunities and conversations.
